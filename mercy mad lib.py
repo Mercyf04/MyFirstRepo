@@ -1,4 +1,4 @@
-
+import time
 
 print("Write a noun")
 noun1 = input()
@@ -52,3 +52,5 @@ print("After, the " + pluralnoun1 + " ran to the" + place2 + "!")
 print("At the " + place3 + " there turned out to be a " + noun3 +"!")
 print("The " + noun5 + " was" + adverb1 + " to his" + noun6 + " and finally got to" + adverb2 + ".")
 #### BEGIN MADLIB ####
+
+time.sleep(100)
